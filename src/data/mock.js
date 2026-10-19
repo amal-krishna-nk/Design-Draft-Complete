@@ -254,6 +254,294 @@ export const testimonials = [
 
 export const blogPosts = [
   {
+    id: 7,
+    slug: 'monsoon-proof-house-construction-kerala',
+    title: 'Building a Home That Handles the Kerala Monsoon: 9 Things to Get Right Before Work Starts',
+    excerpt: 'Most leaks, damp walls and fungus in Kerala homes trace back to decisions made on the drawing board. Here are nine things Thrissur homeowners should settle with their builder before construction begins.',
+    content: `# Building a Home That Handles the Kerala Monsoon
+
+Thrissur gets close to 3,000 mm of rain in a normal year, and most of it comes down between June and September. So a house here has one job that people rarely talk about when they look at elevations and 3D views. It has to get rid of a lot of water, every year, for the next forty or fifty years.
+
+When we're called to look at a leaking terrace or a bedroom wall that's gone black at the corners, the cause is almost never bad luck. It's usually something decided at the drawing stage, or a small shortcut on site that nobody noticed until the first heavy rain. Nearly all of these are cheap to get right on paper and expensive to fix once the family has moved in.
+
+These are the nine things we'd want any homeowner in Thrissur to settle with their builder before the first trench is dug.
+
+## 1. Find out what your plot does in heavy rain
+
+Before the plan is final, learn the history of the land. Ask the neighbours how high the water came in 2018. Walk the plot after a downpour and see where it collects. Land close to paddy fields, the Kole wetlands, or the Chalakudy and Karuvannur rivers needs extra care, and so does any plot that sits lower than the road.
+
+This one piece of information decides your plinth height, your drainage layout, and sometimes whether the land needs filling at all. It's worth a few conversations.
+
+## 2. Set the plinth height on facts, not habit
+
+A lot of houses around here were built with the plinth at the same height as the house next door. That's how water ends up in living rooms.
+
+Set the finished floor level comfortably above the highest water level the plot has seen, and keep an eye on the road too. Panchayat and PWD roads get relaid and raised every few years. A house that sat well above the road when it was built can end up level with it a decade later, and then every heavy shower sends road water towards your gate.
+
+## 3. Don't let anyone skip the damp proof course
+
+The damp proof course (DPC) is a thin layer at plinth level that stops ground moisture from climbing up into the walls. Because it's thin and gets covered quickly, it's an easy thing to leave out when a project is behind schedule.
+
+Without it you start seeing salt marks and peeling paint along the bottom of the walls within a few years. Laterite walls are especially prone to this. Anti-termite treatment of the soil before the plinth is filled belongs in the same conversation, since termites love damp ground. Ask your builder to let you know when both are being done so you can see them for yourself.
+
+## 4. Give the roof a proper slope
+
+Flat concrete roofs are popular and they can work well, but a "flat" roof should never actually be flat. The slab needs a clear slope towards the drain outlets, enough outlets for the roof area, and outlets wide enough that a handful of leaves won't block them. Water that sits on a terrace for days will eventually find its way in.
+
+Sloped roofs suit our climate better. If you like the traditional look, Mangalore tiles need a steep enough pitch to throw the water off quickly. Many families now go for a GI truss with tiles over the concrete slab. It costs more up front, but it keeps the slab dry and the upstairs rooms noticeably cooler, and it's one of the more sensible upgrades we see people make.
+
+## 5. Pay attention to where surfaces meet
+
+Most roof leaks don't start in the middle of the roof. They start at the joints: the valley between two roof slopes, the line where a slab meets a wall, the gap around a pipe coming through the terrace, and the top of the parapet wall.
+
+Each of these needs its own detail. Waterproofing should turn up the wall rather than stop at the floor. Parapets need a coping on top so water doesn't soak straight down into the wall below. Ask your builder how each of these will be handled, and if the answer is just "we'll waterproof the terrace", ask again.
+
+## 6. Every sunshade needs a drip groove
+
+This one is small and it makes a real difference. A drip groove is a narrow channel cut along the underside of a sunshade or slab edge. Without it, rainwater curls back along the underside of the concrete and runs down the wall. That's where the long black streaks below windows come from on so many Kerala houses.
+
+It costs next to nothing when the concrete is cast and it's a nuisance to add later. Sunshade depth matters too. The heaviest rain usually comes in on the south west side with the monsoon winds, so windows facing that way need deeper protection than the rest.
+
+## 7. Plan where the water goes after it leaves the roof
+
+Water coming off the roof has to go somewhere, and "into the yard" isn't a plan. You need downpipes in the right places, a sloped apron around the house so water moves away from the foundation, and surface drains that carry it to the boundary or to a recharge pit.
+
+Kerala's building rules already make rainwater harvesting compulsory for many new houses, depending on their size, so it makes sense to design it properly from day one. A good recharge pit or well recharge setup also helps your well in March and April, which is a nice thing to have when everyone else is buying tanker water.
+
+If you're planning a nadumuttam, size its drain for the worst cloudburst you can imagine, not an average day. A blocked courtyard drain can flood a house from the inside.
+
+## 8. Choose materials that can live with humidity
+
+Our air stays damp for months, so some material choices matter more here than they would elsewhere:
+
+- Exterior paint should be a proper exterior system with a primer and anti-algal protection. Cheap exterior paint is usually the first thing to show what the monsoon has done.
+- Wooden doors and windows should be well seasoned and treated, especially on the sides that take direct rain. UPVC and aluminium frames don't swell, which is one reason more families are choosing them.
+- Bathrooms need waterproofing on the floor and partway up the walls before any tile goes on. A damp patch on a bedroom wall very often turns out to be the bathroom on the other side.
+- Plastering needs clean sand and real curing. Rain on fresh plaster is not the same as curing it.
+
+## 9. Plan the work around the rain
+
+Pouring a roof slab in heavy rain is asking for trouble. Digging foundations at the peak of the monsoon can mean flooded trenches and trench walls caving in.
+
+A builder who has worked through many Kerala monsoons will plan the calendar so the foundation and structure are done in the dry months, or will have a clear plan for protecting the stages that can't wait. If you're starting from scratch, breaking ground between October and January usually gives you a good chance of having the roof on before the next June. Interior work like plastering, wiring and tiling can carry on through the rain once the house is covered.
+
+## A short checklist for your plan review
+
+Take this with you when you sit down with your architect or builder:
+
+- Plinth level checked against the highest known water level and the road
+- DPC and anti-termite treatment written into the specification
+- Roof slope and the number of drain outlets shown on the drawing
+- Waterproofing method for the terrace, bathrooms and sunshades
+- Drip grooves on all sunshades and slab edges
+- Drainage and rainwater harvesting layout
+- Exterior paint brand and product named, not just "exterior emulsion"
+
+## Getting a second opinion
+
+Design Draft has been designing and building homes around Irinjalakuda, Chalakudy, Kodungallur and the rest of Thrissur for over 25 years, and a lot of what's written here was learned on site rather than in a textbook. If you're planning a house and want someone to look over the drawings with the monsoon in mind, [get in touch with our team](/contact) or call us on +91 7736885666.
+
+If you're still at the early stage, our guides on [choosing the right builder in Thrissur](/blog/how-to-choose-right-builder-thrissur) and [construction costs in Thrissur](/construction-cost-thrissur) are good places to start.`,
+    faqs: [
+      {
+        question: 'When is the best time to start building a house in Kerala?',
+        answer: 'Starting between October and January usually works best. It gives the builder the dry months to finish the foundation and structure, so the roof is on before the June monsoon. Interior work such as plastering, wiring and tiling can continue during the rain once the house is covered.'
+      },
+      {
+        question: 'How high should the plinth be for a house in Thrissur?',
+        answer: 'There is no single number that suits every plot. The finished floor level should sit comfortably above the highest water level the land has seen, including 2018, and above the road in front, keeping in mind that roads tend to be raised when they are relaid.'
+      },
+      {
+        question: 'Is a truss roof over a concrete slab worth the extra cost?',
+        answer: 'For most Kerala homes, yes. A GI truss with tiles over the slab keeps rain off the concrete, which greatly reduces the chance of terrace leaks, and it also keeps the upper floor cooler. It costs more at the start but usually saves money on waterproofing and repairs later.'
+      },
+      {
+        question: 'Why do new houses in Kerala get damp walls?',
+        answer: 'The most common causes are a missing or damaged damp proof course at plinth level, poorly waterproofed bathrooms next to bedrooms, sunshades without drip grooves, and exterior paint that is not made for heavy rain. Most of these are avoided by getting the details right before construction.'
+      }
+    ],
+    keywords: [
+      'monsoon proof house Kerala',
+      'house construction tips Kerala rain',
+      'roof leakage prevention Kerala',
+      'damp proof course Kerala house',
+      'plinth height house Thrissur',
+      'best time to start house construction Kerala',
+      'home builders Thrissur',
+      'construction company Irinjalakuda'
+    ],
+    author: 'Design Draft Team',
+    date: '2026-10-19',
+    category: 'Construction Tips',
+    image: 'https://images.unsplash.com/photo-1613490493576-7fde63acd811',
+    readTime: '8 min read',
+    metaTitle: 'Monsoon Proof House Construction in Kerala | Design Draft',
+    metaDescription: 'Leaks and damp walls start on the drawing board. Nine things Thrissur homeowners should settle with their builder before work starts, from plinth height to drip grooves.'
+  },
+  {
+    id: 6,
+    slug: 'labour-contract-vs-turnkey-construction-kerala',
+    title: 'Labour Contract or Turnkey: Choosing the Right Construction Contract for Your Thrissur Home',
+    excerpt: 'Should you buy materials yourself and hire labour, or hand the whole house to one builder? An honest look at how both contracts work in Kerala, where each one goes wrong, and how to decide.',
+    content: `# Labour Contract or Turnkey: Which One Suits Your Home?
+
+Almost every family that sits down with us in Irinjalakuda asks the same question within the first ten minutes. "Should we give it on labour contract and buy the materials ourselves, or hand over everything?"
+
+It's a fair thing to ask. A relative has probably told you labour contract is cheaper. Someone else has a story about a turnkey builder who cut corners on the tiles. Both stories can be true. The type of contract doesn't decide on its own how your house turns out, but it does decide who carries the risk, who spends the time, and who you call when something goes wrong two monsoons later.
+
+Below we've laid out how each option really works in Kerala, where each one tends to fail, and how to choose based on your own situation rather than on what worked for the family next door.
+
+## The short version
+
+| | Labour contract | Turnkey contract |
+| --- | --- | --- |
+| Who buys materials | You | The builder |
+| Your time on site | Several visits a week, sometimes daily | Stage inspections and meetings |
+| Price certainty | Low, because prices move and wastage adds up | High, if the specification list is detailed |
+| Who answers for defects | Split between contractor and suppliers | One company |
+| Suits | Owners who live nearby and know construction | NRIs, working couples, first time builders |
+
+## How a labour contract works
+
+Under a labour contract, the contractor brings the masons, helpers, bar benders and shuttering carpenters, and you pay them at a rate per square foot or per stage. Everything else is your job. Cement, steel, M sand and P sand, laterite or concrete blocks, aggregate, water and power for the site, and usually the plumbing and electrical materials as well.
+
+It looks cheaper on paper because the builder's margin on materials disappears. In practice, how much you save depends almost entirely on how well you buy and how often you can be on site.
+
+The things owners tend to underestimate:
+
+- **Wastage.** Nobody is more careful with cement than the person who paid for it. When the contractor isn't paying for materials, there's not much reason for anyone on site to be careful with them.
+- **Timing.** If the steel arrives three days late, the crew sits idle and you still pay them. Someone has to be ordering ahead, every week, for months.
+- **Technical choices.** You'll be asked which cement to use for the slab, what grade of steel, which waterproofing compound. If you don't know, you'll guess, or you'll ask the contractor, who may well have a dealer he prefers.
+- **Who owns the problem.** If the terrace leaks, the contractor can blame the waterproofing product you bought. The dealer will blame the workmanship. Either way, you pay for the repair.
+
+None of this means labour contracts are a bad idea. We've seen them done very well by retired engineers, and by families with someone experienced in the trade who can be on site most days. It just suits a particular kind of owner.
+
+## How a turnkey contract works
+
+In a turnkey (or full) contract, the builder supplies both labour and materials and hands over a finished house for an agreed price, usually quoted per square foot or as a lump sum for your plan. A proper turnkey contract also includes supervision and scheduling, so the plumber and electrician arrive at the right stage and not after the plastering is finished.
+
+The main advantage is that one company is responsible. If a wall cracks or a bathroom leaks into the room below, there is one number to call.
+
+The risk also sits in one place, and that place is the specification list. Two builders can quote almost the same rate per square foot and deliver very different houses. The difference hides in lines like "vitrified tiles" (what size, which brand, what price per square foot?) or "branded sanitary fittings" (which brand, and which range?).
+
+## The specification sheet is where most turnkey deals go wrong
+
+Before comparing any two quotes, ask each builder for the full specification sheet. At the very least it should name:
+
+- Cement brand and grade, and steel brand and grade (for example Fe 500 or Fe 500D)
+- Concrete mix for the footings, columns and slabs
+- Wall material and block size
+- Flooring type and size, with an allowance per square foot for the tile itself
+- Main door wood, other door material, and window frame type
+- Sanitaryware and bathroom fittings, with brand and model range
+- Wire and switch brands, and the number of electrical points in each room
+- Plumbing pipe brand and class
+- Paint brand and product for inside and outside, with the number of coats
+- Waterproofing method for the terrace, bathrooms and sunshades
+
+Then look just as carefully at what has been left out. These are the items that most often come back later as "extra work":
+
+- Compound wall and gate
+- Well, borewell, sump or overhead tank
+- Septic tank and soak pit
+- KSEB and water connection deposits
+- Permit and plan approval fees
+- Site clearing, filling, or deeper foundations if the soil turns out to be poor
+- Interiors, modular kitchen and wardrobes
+
+A quote that looks noticeably cheaper per square foot often stops looking cheap once these are added back in. If a builder is reluctant to put brands and exclusions in writing, treat that as your answer.
+
+## Link payments to stages, not dates
+
+Whichever contract you choose, money should follow work that has actually been done and checked. A typical stage schedule looks something like this:
+
+1. Agreement and setting out on site
+2. Foundation and plinth, including the plinth belt
+3. Ground floor lintel
+4. Ground floor roof slab
+5. First floor slab, for two storey homes
+6. Plastering
+7. Flooring and tiling
+8. Painting, fittings and handover
+
+Hold back a small final amount until a fixed period after handover, so that the little snags that always show up in the first few months get fixed without a chase.
+
+## What happens when prices go up?
+
+Cement and steel prices move through the year. On a labour contract, every increase comes straight out of your pocket. On a turnkey contract, read the escalation clause before you sign. Some builders hold the price for the whole project. Others hold it for a fixed period, or reserve the right to revise if steel moves past a certain percentage. Neither approach is wrong, but you should know which one you agreed to.
+
+## So which one should you choose?
+
+A labour contract usually makes sense if:
+
+- You, or someone you trust completely, live close to the site
+- That person understands materials and site work
+- You can make decisions quickly and pay suppliers on time
+- You're comfortable sorting out disputes yourself
+
+A turnkey contract usually makes sense if:
+
+- You work in the Gulf or another city, as so many Thrissur families do
+- Both of you have full time jobs
+- This is your first house
+- You want the budget fixed before the first footing is dug
+
+Some families take a middle path. They go turnkey for the structure up to plastering, then choose their own tiles, sanitaryware and interiors. That can work well, as long as the contract is clear about who is responsible where the two parts meet. A tile that sounds hollow because the bed underneath wasn't prepared properly is a classic argument waiting to happen.
+
+## Questions to ask any builder before you sign
+
+1. Can I have the full specification list in writing, with brands?
+2. What exactly is not included in this quote?
+3. Who will supervise the site day to day, and how often will an engineer visit?
+4. How are payments linked to stages?
+5. What happens if material prices rise halfway through?
+6. What guarantee do you give on the structure and waterproofing, and is it in the agreement?
+7. Can I visit a house you finished at least two years ago?
+
+That last question matters more than any brochure or 3D render. Every house looks perfect on handover day. Two monsoons later, you find out how it was built.
+
+## How we work at Design Draft
+
+Most of the homes we build around Thrissur are turnkey projects, because the families we work with want one team responsible from the first drawing to the day they get the keys. Every quote comes with a detailed specification sheet and a stage wise payment plan, so you know what you're paying for at each step.
+
+If you already have quotes from other builders, bring them along. We're happy to go through them with you so you're comparing like with like. You can [book a consultation](/contact), call us on +91 7736885666, or read our [construction cost guide for Thrissur](/construction-cost-thrissur) first to get a feel for the numbers.`,
+    faqs: [
+      {
+        question: 'Is a labour contract cheaper than turnkey construction in Kerala?',
+        answer: 'It can be on paper, because you are not paying the builder a margin on materials. The real saving depends on how well you buy, how much material is wasted, and how much time you can spend on site. For owners who cannot visit often, wastage, delays and repair disputes usually eat into the difference.'
+      },
+      {
+        question: 'What is usually included in a turnkey house construction contract?',
+        answer: 'A turnkey contract normally covers labour, materials, supervision and handover of a finished house as per an agreed plan and specification. Items such as the compound wall, well, sump, septic tank, utility deposits, permit fees and interiors are often excluded, so always ask for the list of exclusions in writing.'
+      },
+      {
+        question: 'Can I choose my own tiles and fittings in a turnkey contract?',
+        answer: 'Yes. Many builders give an allowance per square foot for tiles and a set budget for fittings, and you can pick within that or pay the difference for something more expensive. Some families also keep finishes completely out of the contract and buy them separately.'
+      },
+      {
+        question: 'How do I compare two turnkey quotes fairly?',
+        answer: 'Put the specification sheets side by side and check the brands, grades, tile allowances, number of electrical points and the list of exclusions. Two quotes with the same rate per square foot can describe very different houses.'
+      }
+    ],
+    keywords: [
+      'labour contract vs turnkey construction Kerala',
+      'turnkey house construction Thrissur',
+      'labour contract house construction Kerala',
+      'turnkey builders Thrissur',
+      'house construction contract Kerala',
+      'construction specification list Kerala',
+      'home builders Irinjalakuda',
+      'trusted home builders Thrissur'
+    ],
+    author: 'Design Draft Team',
+    date: '2026-10-19',
+    category: 'Construction Guide',
+    image: 'https://images.unsplash.com/photo-1759922378222-47ad736a174d',
+    readTime: '9 min read',
+    metaTitle: 'Labour Contract vs Turnkey Construction in Kerala | Design Draft',
+    metaDescription: 'Buy materials yourself or hand the whole house to one builder? How labour and turnkey contracts really work in Kerala, what to check in a quote, and how to choose.'
+  },
+  {
     id: 1,
     slug: 'modern-house-design-ideas-thrissur-2026',
     title: 'Top 10 Modern House Design Ideas in Thrissur for 2026',
@@ -1763,5 +2051,9 @@ export const seoKeywords = [
   'construction planning guide Thrissur',
   'home building process Kerala',
   'design trends for villas Kerala',
-  'space optimization home interiors Kerala'
+  'space optimization home interiors Kerala',
+  'labour contract vs turnkey construction Kerala',
+  'turnkey house construction Thrissur',
+  'monsoon proof house construction Kerala',
+  'roof leakage prevention Kerala'
 ];

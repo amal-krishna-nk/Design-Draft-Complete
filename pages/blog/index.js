@@ -14,6 +14,8 @@ export default function BlogPage() {
           "house design ideas Thrissur",
           "construction cost Thrissur",
           "Kerala architecture blog",
+          "turnkey house construction Thrissur",
+          "monsoon proof house Kerala",
         ]}
       />
       <Blog />

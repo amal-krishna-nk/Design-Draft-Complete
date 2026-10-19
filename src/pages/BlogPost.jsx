@@ -5,6 +5,29 @@ import { Button } from '../components/ui/button';
 import { Card, CardContent } from '../components/ui/card';
 import { blogPosts } from '../data/mock';
 
+// Renders **bold** and [text](url) inside a line of post content
+const renderInline = (text) => {
+  const parts = text.split(/(\*\*[^*]+\*\*|\[[^\]]+\]\([^)]+\))/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i} className="font-semibold text-gray-900">{part.slice(2, -2)}</strong>;
+    }
+    const link = part.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
+    if (link) {
+      const [, label, href] = link;
+      const className = 'text-orange-600 underline underline-offset-2 hover:text-orange-700';
+      return href.startsWith('/') ? (
+        <Link key={i} to={href} className={className}>{label}</Link>
+      ) : (
+        <a key={i} href={href} className={className} target="_blank" rel="noopener noreferrer">{label}</a>
+      );
+    }
+    return part;
+  });
+};
+
+const splitRow = (row) => row.trim().replace(/^\||\|$/g, '').split('|').map((cell) => cell.trim());
+
 const BlogPost = () => {
   const { slug } = useParams();
   const navigate = useNavigate();
@@ -85,6 +108,10 @@ const BlogPost = () => {
           <div className="prose prose-lg max-w-none">
             <div className="text-gray-700 leading-relaxed space-y-6">
               {post.content.split('\n\n').map((paragraph, index) => {
+                // Keyword lines are for metadata only, not for readers
+                if (paragraph.startsWith('### Keywords:')) {
+                  return null;
+                }
                 // Handle headings
                 if (paragraph.startsWith('# ')) {
                   return (
@@ -121,21 +148,82 @@ const BlogPost = () => {
                     <ul key={index} className="list-disc list-inside space-y-2 my-4">
                       {items.map((item, i) => (
                         <li key={i} className="text-gray-700">
-                          {item.replace('- ', '')}
+                          {renderInline(item.replace('- ', ''))}
                         </li>
                       ))}
                     </ul>
                   );
                 }
+                // Handle numbered lists
+                if (/^\d+\. /.test(paragraph)) {
+                  const items = paragraph.split('\n');
+                  return (
+                    <ol key={index} className="list-decimal list-inside space-y-2 my-4">
+                      {items.map((item, i) => (
+                        <li key={i} className="text-gray-700">
+                          {renderInline(item.replace(/^\d+\. /, ''))}
+                        </li>
+                      ))}
+                    </ol>
+                  );
+                }
+                // Handle tables (header row, separator row, body rows)
+                if (paragraph.startsWith('|')) {
+                  const [header, , ...rows] = paragraph.split('\n');
+                  return (
+                    <div key={index} className="overflow-x-auto my-6">
+                      <table className="w-full text-left text-sm md:text-base border border-gray-200">
+                        <thead className="bg-orange-50">
+                          <tr>
+                            {splitRow(header).map((cell, i) => (
+                              <th key={i} className="px-4 py-3 font-semibold text-gray-900 border-b border-gray-200">
+                                {renderInline(cell)}
+                              </th>
+                            ))}
+                          </tr>
+                        </thead>
+                        <tbody>
+                          {rows.map((row, r) => (
+                            <tr key={r} className="even:bg-gray-50">
+                              {splitRow(row).map((cell, i) => (
+                                <td
+                                  key={i}
+                                  className={`px-4 py-3 border-b border-gray-200 align-top ${i === 0 ? 'font-medium text-gray-900' : 'text-gray-700'}`}
+                                >
+                                  {renderInline(cell)}
+                                </td>
+                              ))}
+                            </tr>
+                          ))}
+                        </tbody>
+                      </table>
+                    </div>
+                  );
+                }
                 // Regular paragraphs
                 return (
                   <p key={index} className="text-gray-700 leading-relaxed">
-                    {paragraph}
+                    {renderInline(paragraph)}
                   </p>
                 );
               })}
             </div>
           </div>
+
+          {/* FAQs */}
+          {post.faqs?.length > 0 && (
+            <section className="mt-12">
+              <h2 className="text-3xl font-bold text-gray-900 mb-6">Frequently Asked Questions</h2>
+              <div className="space-y-6">
+                {post.faqs.map((faq, i) => (
+                  <div key={i} className="border-l-4 border-orange-500 pl-5">
+                    <h3 className="text-xl font-semibold text-gray-900 mb-2">{faq.question}</h3>
+                    <p className="text-gray-700 leading-relaxed">{faq.answer}</p>
+                  </div>
+                ))}
+              </div>
+            </section>
+          )}
 
           {/* Share & CTA */}
           <div className="mt-12 pt-8 border-t border-gray-200">

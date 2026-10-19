@@ -65,6 +65,7 @@ export default function Seo({
   keywords = [],
   image = "https://images.unsplash.com/photo-1544984243-ec57ea16fe25",
   schema = null,
+  type = "website",
 }) {
   const canonical = `${SITE_URL}${path}`;
   const computedKeywords =
@@ -85,12 +86,13 @@ export default function Seo({
       <meta name="robots" content="index, follow, max-image-preview:large" />
       <link rel="canonical" href={canonical} />
 
-      <meta property="og:type" content="website" />
+      <meta property="og:type" content={type} />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
       <meta property="og:url" content={canonical} />
       <meta property="og:image" content={image} />
       <meta property="og:site_name" content={companyInfo.name} />
+      <meta property="og:locale" content="en_IN" />
 
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:site" content="@_design_draft_" />
