@@ -254,6 +254,357 @@ export const testimonials = [
 
 export const blogPosts = [
   {
+    id: 9,
+    slug: 'interior-design-cost-thrissur-price-guide',
+    title: 'Interior Design Cost in Thrissur: A Room-by-Room Guide to Planning Your Budget',
+    excerpt: 'Why do two interior quotes for the same home look so different? A room-by-room guide to what drives interior design cost in Thrissur, what each budget level gets you, and how to compare quotes before you sign.',
+    content: `# Interior Design Cost in Thrissur: How to Plan Your Budget
+
+"Do you have a price list?" is one of the first things people ask when they call an interior designer in Thrissur. It's a fair question. You want some idea of the cost before you invite anyone into your home.
+
+The trouble is that a price list tells you very little. Two kitchens of exactly the same size can differ in cost by two or three times, depending on the board inside the cabinets, the finish on the shutters and the hardware that holds it all together. Material prices also change through the year, so a rate card printed in January is often wrong by June.
+
+What does stay the same is how interior costs are built up. If you understand that, you can set a realistic budget, see where your money goes, and tell straight away whether a quote is fair or is cutting corners somewhere you can't see. That's what this guide covers. When you're ready for actual numbers, the most reliable way to get them is a room-by-room estimate for your own home, which we're happy to prepare for free.
+
+## Where the money goes
+
+In most Thrissur homes, a handful of items make up most of the interior budget. Knowing their relative weight helps you decide where to spend and what can wait.
+
+| Item | Share of a typical budget | Why |
+| --- | --- | --- |
+| Modular kitchen and work area | Largest | Most cabinets, most hardware, countertop and wet-area materials |
+| Wardrobes | Large | Grows with every bedroom; full-height units with lofts add up |
+| False ceilings and lighting | Medium | Depends on how many rooms and how detailed the design is |
+| TV unit and living room panelling | Medium | Ranges from a simple unit to a full feature wall |
+| Crockery, foyer, study, pooja and bed units | Smaller, but adds up | Each one is modest; together they matter |
+
+A good rule of thumb is that the kitchen and wardrobes together usually account for well over half of an essentials package. If you need to keep costs down, these are the places to get right first and the hardest to redo later.
+
+## Three budget levels, explained by what you get
+
+Rather than chase a rate, it helps to decide which level suits your home. Each level below assumes proper professional work with installation and a warranty.
+
+| | Essential | Balanced | Premium |
+| --- | --- | --- | --- |
+| Cabinet board | Waterproof plywood in wet areas, good quality plywood elsewhere | Waterproof plywood throughout the kitchen and bathrooms | Top-grade plywood throughout |
+| Shutter finish | Laminate | Laminate with acrylic or glass highlights | Acrylic, PU or lacquer, veneer |
+| Hardware | Branded basic soft-close | Branded soft-close with organisers | Premium imported fittings, lift-ups, internal lighting |
+| Scope | Kitchen, wardrobes, TV unit | Adds crockery unit, foyer, ceilings in living and dining | Full home including panelling, study, feature walls and ceilings in every room |
+| Suits | First homes, rental properties, tight budgets | Most family homes | Homes where interiors are a centrepiece |
+
+"Essential" should never mean particle board in the kitchen. We'll come back to why that matters so much in Kerala.
+
+## How each room is usually priced
+
+Knowing how an item is measured makes quotes far easier to compare.
+
+### Modular kitchen
+
+Kitchens are priced either per square foot of cabinet shutter area or per running foot of counter, for base and wall cabinets together. The main things that change the cost are:
+
+- **Shutter finish.** Laminate is the most economical, acrylic sits in the middle, PU and lacquer are at the top.
+- **Accessories.** Tall units, pull-out pantries, corner carousels and cutlery organisers each add to the cost.
+- **Countertop, sink and appliances.** Granite or quartz, the sink and tap, chimney and hob are often listed separately. Check whether they're in your quote.
+- **Work area.** Many Kerala homes now have a second kitchen or work area. Fitting it out like the main kitchen can add a lot, so decide early how finished you want it.
+
+### Wardrobes
+
+Wardrobes are priced per square foot of front area, which is width multiplied by height. A wardrobe 6 feet wide and 7 feet tall is 42 sq ft. Sliding doors, glass or lacquer shutters and internal fittings such as pull-out trays and trouser racks raise the rate. Lofts above the wardrobe are usually charged at the same rate for their area.
+
+### TV unit and living room
+
+A TV unit can be a simple floating ledge or a full wall with fluted panels, a back-lit stone panel and storage. The size of the wall you want to treat and the finish you choose decide most of the cost. Wall panelling elsewhere in the living room is priced per square foot and depends on the material: laminate, veneer, fluted panels or wallpaper.
+
+### False ceiling
+
+Gypsum false ceilings are priced per square foot of ceiling area, including framing and finishing. Plain ceilings with a simple border are the most economical. Multiple levels, cove lighting channels and wooden strips add cost. Lights, profile lighting and the wiring for them are often a separate line.
+
+### Other units
+
+Beds with storage, dressing units, study tables, crockery units, shoe racks and pooja units are usually quoted per piece. Each one is a small part of the budget on its own, but five or six of them together can match the cost of a wardrobe or two.
+
+## Planning a small 3 bedroom home
+
+For a typical 3 bedroom house of around 1,500 to 1,800 sq ft, which is the kind of home we're asked about most often in Irinjalakuda and Chalakudy, a sensible plan usually looks like this.
+
+**Do now**
+
+- Modular kitchen and work area
+- Wardrobes with lofts in all three bedrooms
+- TV unit
+- Shoe rack or foyer unit
+
+**Do now if the budget allows, otherwise later**
+
+- Crockery unit
+- False ceiling in the living and dining areas
+- Study table
+
+**Easy to add later**
+
+- Ceilings in bedrooms
+- Wall panelling and feature walls
+- Decor, curtains and loose furniture
+
+Splitting the work like this lets you move in with everything you use daily in place, without stretching the budget for items that can be added in a year or two.
+
+## What actually moves the price
+
+### 1. The board inside the cabinet
+
+This matters more in Kerala than almost anywhere else. Our humidity stays high for months, and kitchens and bathrooms get wet every day. Particle board and MDF swell when moisture gets into them, and once a kitchen base cabinet swells, it can't be repaired, only replaced.
+
+For kitchens, sink bases and anything near a bathroom, insist on **BWP (boiling water proof) plywood**, also sold as marine grade, conforming to IS 710. For wardrobes in dry bedrooms, good BWR or MR grade plywood is acceptable. A quote that is surprisingly cheap is very often a quote on particle board, so ask the question directly and get the answer in writing.
+
+### 2. The finish on the shutter
+
+Laminate is durable, affordable and comes in hundreds of designs. Acrylic gives a glossy, seamless look and costs more. PU and lacquer finishes are the most expensive and need more care. Of everything you can see, the finish has the biggest effect on the price of a kitchen or wardrobe.
+
+### 3. Hardware
+
+Hinges, drawer channels, tandem boxes and lift-up mechanisms are what you touch every day. Branded soft-close hardware costs more than unbranded, but it's the difference between drawers that still glide in ten years and drawers that sag in three. Ask which brand is quoted for each fitting.
+
+### 4. Design complexity
+
+Straight lines and standard modules are cheaper to make. Curves, profile handles, hidden doors, back-lit panels and floor-to-ceiling units all add labour and material.
+
+### 5. Whether interiors were planned with the house
+
+When interiors are planned at the drawing stage, electrical points, plumbing and wall niches are placed where the furniture needs them. When interiors start after the house is finished, you often pay for chasing walls, shifting points and filling gaps around beams. Planning early is one of the easiest ways to save money without cutting quality.
+
+## How to compare quotes from interior designers in Thrissur
+
+A per square foot rate on its own tells you almost nothing. Two quotes that look far apart often turn out to describe very different kitchens. Line them up on these points:
+
+- Board type, brand and grade for the carcass and the shutters
+- Laminate or finish brand and thickness
+- Hardware brand for hinges, channels and accessories
+- What's inside each cabinet: baskets, organisers, dividers
+- Countertop material and whether it's included
+- Electrical, lighting and ceiling work included or excluded
+- Design fee, 3D views and the number of revisions
+- Warranty period on material and workmanship
+- Timeline and payment schedule
+
+If a designer won't put brands and grades in writing, treat that as your answer.
+
+## Design fees
+
+Most design-and-execute firms, including us, include design and 3D views in the project cost when they also build the interiors. If you only want a design to hand over to your own carpenter, expect a separate design fee, usually charged per square foot of the area designed or as a fixed fee for the home.
+
+## How payments usually work
+
+A typical payment schedule for interiors runs roughly like this:
+
+1. Booking advance after the design is agreed
+2. A larger payment when materials are ordered and factory production begins
+3. A payment on delivery of the modules to site
+4. The balance after installation and a final walkthrough
+
+Avoid paying most of the project value before production has started.
+
+## How long does it take?
+
+For a 3BHK, design and approvals usually take two to four weeks. Factory production takes another three to five weeks, and site installation one to three weeks. Plan for roughly two to three months from first meeting to handover. If you're timing this around a house warming, tell your designer the date at the first meeting.
+
+## Ways to save without regretting it
+
+- Spend on the kitchen and wardrobes first, since they are hardest to change later. Ceilings, panelling and decor can follow.
+- Use laminate on the inside of cabinets and keep premium finishes for the shutters people actually see.
+- Keep the kitchen layout simple. An L-shaped or parallel kitchen costs less than a U-shape with multiple corners.
+- Don't save on the board or the hardware. That is where cheap interiors fail first in our climate.
+
+## Get a free room-by-room estimate
+
+Because prices depend so much on your plan and your choices, the fastest way to an honest number is an estimate for your own home. Share your floor plan or a few photos of the rooms, tell us which level suits you, and we'll send a room-by-room breakdown with the board, finish and hardware written down for every item, so you can compare it fairly with any other quote.
+
+Design Draft designs and builds interiors for homes across Thrissur, from Irinjalakuda and Chalakudy to Kodungallur and Kunnamkulam, with our own team handling both design and execution. [Request your free estimate](/contact), call +91 7736885666, or read more about our [interior design services in Thrissur](/interior-designers-in-thrissur). If you're still building, our guide to [interior design trends for Thrissur homes](/blog/interior-design-trends-thrissur-homes) will help you decide on a style before you plan the electrical points.`,
+    faqs: [
+      {
+        question: 'How much does interior design cost for a 3BHK in Thrissur?',
+        answer: 'It depends mainly on the scope, the cabinet board, the shutter finish and the hardware. The modular kitchen and wardrobes usually make up more than half of an essentials package. Because material prices change through the year, the most reliable figure is a room-by-room estimate based on your own plan, which Design Draft prepares free of charge.'
+      },
+      {
+        question: 'How is a modular kitchen priced?',
+        answer: 'Kitchens are usually priced per square foot of cabinet shutter area or per running foot of counter. The shutter finish (laminate, acrylic or PU), accessories such as tall units and corner solutions, and whether the countertop, sink and appliances are included make the biggest difference to the final cost.'
+      },
+      {
+        question: 'Which plywood is best for kitchens in Kerala?',
+        answer: 'Use BWP (boiling water proof) plywood, also called marine grade, conforming to IS 710 for kitchens and any cabinet near water. Kerala humidity causes particle board and MDF to swell, and swollen cabinets cannot be repaired.'
+      },
+      {
+        question: 'Why do interior designers not give a fixed price list?',
+        answer: 'A rate on a price list hides the board, finish, hardware and inclusions behind it, and material prices change through the year. Two kitchens of the same size can differ two or three times in cost, so an itemised estimate for your own home is far more useful than a general price list.'
+      },
+      {
+        question: 'How long does home interior work take?',
+        answer: 'For a 3BHK, plan for about two to three months: two to four weeks for design, three to five weeks for factory production, and one to three weeks for installation on site.'
+      }
+    ],
+    keywords: [
+      'interior design cost Thrissur',
+      'interior designers in Thrissur price list',
+      'room interior design price',
+      'modular kitchen cost Thrissur',
+      'modular kitchen Thrissur',
+      '3BHK interior cost Kerala',
+      'small 3 bedroom house interior design',
+      'wardrobe cost per sq ft Kerala',
+      'TV unit design for living room',
+      'interior designers in Thrissur'
+    ],
+    author: 'Design Draft Team',
+    date: '2026-11-02',
+    category: 'Interior Design',
+    image: 'https://images.unsplash.com/photo-1581784878214-8d5596b98a01',
+    readTime: '10 min read',
+    metaTitle: 'Interior Design Cost in Thrissur: Room-by-Room Budget Guide',
+    metaDescription: 'What drives interior design cost in Thrissur room by room, what each budget level gets you, and how to compare quotes before you sign.'
+  },
+  {
+    id: 8,
+    slug: 'hiring-architect-thrissur-fees-guide',
+    title: 'Hiring an Architect in Thrissur: Fees, What You Get and Questions to Ask',
+    excerpt: 'What does an architect in Thrissur charge, what should the fee cover, and how do you choose between an architect, an engineer and a design-build firm? A plain guide for families planning a new home.',
+    content: `# Hiring an Architect in Thrissur: A Practical Guide
+
+Search for architects in Thrissur and you'll find dozens of names, a lot of beautiful 3D renders, and very little about what you'll actually pay or what you'll get for it. That makes it hard to compare one firm against another, and it's why many families end up choosing on the strength of a single good-looking elevation.
+
+This guide is meant to fill that gap. It covers who can call themselves an architect, what a full architectural service should include, how fees are usually worked out in Kerala, and the questions worth asking before you sign anything.
+
+## Architect, engineer or design-build firm?
+
+Before talking about fees, it helps to know who you're comparing. In Thrissur, house plans come from three kinds of people:
+
+| | Architect | Civil engineer or draughtsman | Design-build firm |
+| --- | --- | --- | --- |
+| What they do | Design the house, prepare drawings, may supervise | Mainly permit and structural drawings | Design and construct under one contract |
+| Design depth | High, including space planning, light, ventilation and detailing | Usually limited | Varies, check the team |
+| Who builds | A builder you appoint separately | A builder you appoint separately | The same firm |
+| Best for | Owners who want a custom design and are ready to manage a separate builder | Simple houses with a clear brief | Families who want one point of responsibility |
+
+None of these is right for everyone. What matters is knowing which one you're talking to and comparing like with like.
+
+## Check that your architect is registered
+
+Under the Architects Act, 1972, only a person registered with the **Council of Architecture (CoA)** can legally use the title "architect" in India. Many skilled designers and engineers aren't registered architects, and that's fine as long as they don't claim to be.
+
+Checking takes a minute. Ask for the registration number and look it up on the [Council of Architecture website](https://www.coa.gov.in). If someone hesitates to share it, that tells you something.
+
+## What a full architectural service includes
+
+A complete service for a new home normally moves through these stages:
+
+1. **Brief and site study.** Understanding your family, budget, plot size, orientation, access, drainage, trees and neighbouring buildings.
+2. **Concept design.** Two or three layout options with rough sketches or simple 3D views.
+3. **Design development.** The chosen layout refined into plans, elevations and sections, along with exterior 3D views.
+4. **Permit drawings.** Drawings prepared to Kerala building rules for submission to your panchayat, municipality or the Thrissur Corporation, along with the permit application.
+5. **Working drawings.** Detailed, dimensioned drawings for the builder: plans, sections, door and window schedules, electrical and plumbing layouts, flooring patterns and toilet details.
+6. **Structural drawings.** Footing, column, beam and slab design, usually by a structural engineer working with the architect.
+7. **Site supervision.** Periodic visits at key stages to check that construction follows the drawings.
+
+When fees look very different between two firms, it's usually because one is quoting all seven stages and the other is quoting only the first four. Always ask for the scope in writing.
+
+## How architects in Thrissur charge
+
+There isn't one fixed rate. The Council of Architecture used to publish a recommended scale of charges, but it is now advisory and fees are agreed between the architect and the client. In and around Thrissur you'll commonly see three models:
+
+- **Percentage of construction cost.** Common for a full service including supervision. The percentage depends on the architect's experience and how much detailing and supervision is included. Because it is tied to the construction cost, the fee rises if the specification goes up, so agree on how the final construction cost will be measured.
+- **Rate per square foot of built-up area.** Easier to understand at the start. Rates vary widely with scope, from a modest figure for permit-level drawings to a much higher one for a full service with interiors and supervision.
+- **Lump sum.** A fixed fee for a defined scope, often used for smaller houses or for permit drawings only.
+
+Whichever model is used, compare fees against the scope, not against each other. A permit-drawings-only service will always look far cheaper than a full service, but you would then need someone else to prepare working drawings and supervise the site, and that cost comes back later. The cheapest fee is rarely the cheapest house.
+
+Interior design, landscape design and 3D walkthrough videos are often charged separately, so check whether they're included.
+
+## What drives the fee up or down
+
+- **Scope.** Supervision and working drawings make up a large part of the work.
+- **Complexity.** A sloping site, a nadumuttam, cantilevers or a custom roof take more design time.
+- **Size.** Fees per sq ft usually come down as the house gets bigger.
+- **Distance.** An architect who is 10 minutes away can visit your site far more often than one who is two hours away. For a house in Irinjalakuda, Chalakudy or Kunnamkulam, a local firm usually means more site visits for the same fee.
+- **Revisions.** Find out how many rounds of changes are included before extra charges apply.
+
+## Permits: what your architect should handle
+
+Every new house needs a building permit from the local body, whether that's your grama panchayat, a municipality such as Irinjalakuda, Chalakudy or Kunnamkulam, or the Thrissur Corporation. The drawings must follow the Kerala building rules on setbacks from the boundary and road, plot coverage, floor area ratio, height and parking.
+
+A good architect will check these limits before designing, not after, so you don't fall in love with a layout that can't be approved. Ask who will prepare and submit the permit application, who will deal with any queries from the local body, and whether permit fees are included in the quote or paid by you directly. They usually are paid by you.
+
+If your plot is near a paddy field, wetland, river or heritage zone, or falls under a town planning scheme, tell the architect at the first meeting. These can bring extra conditions or approvals.
+
+## Questions to ask before you sign
+
+1. What is your Council of Architecture registration number?
+2. Which of the seven stages above does your fee include?
+3. How is the fee calculated, and what is the payment schedule?
+4. How many design options and revisions are included?
+5. Who prepares the structural drawings?
+6. How many site visits are included during construction, and at which stages?
+7. Will you prepare and submit the building permit application?
+8. Can you design to a fixed construction budget, and how will you keep the design within it?
+9. Can I visit two or three houses you've designed that families have lived in for a few years?
+
+The last question is the most useful. Renders show you what a house looks like on a screen. A house that has been lived in for a few monsoons shows you whether the architect understands how people in Kerala actually live, and how the climate treats a building.
+
+## Warning signs
+
+- No written scope or agreement, only a verbal fee
+- A design produced before anyone has visited your plot
+- Reluctance to talk about construction cost, or a design that's obviously far beyond your budget
+- Free plans offered on the condition that you build with a particular contractor, without saying so clearly
+- No registration number, while still using the title "architect"
+
+## How we work at Design Draft
+
+Design Draft is a design-build firm based in Irinjalakuda. Our architects and engineers design the house, prepare the permit and working drawings, and our own construction team builds it, so there is one team answerable from the first sketch to handover. Because we price the construction as well, we design to your budget from the start rather than finding out at tender stage that the drawings cost more than you planned.
+
+If you're comparing architects in Thrissur, you're welcome to bring your plot details and any designs you already have. We'll tell you honestly whether a design-build approach suits your project. [Book a consultation](/contact), call +91 7736885666, or see our [architectural services in Thrissur](/architects-in-thrissur).
+
+Planning a budget too? Our [construction cost guide for Thrissur](/construction-cost-thrissur) and our advice on [choosing a builder](/blog/how-to-choose-right-builder-thrissur) are good next reads.`,
+    faqs: [
+      {
+        question: 'How much does an architect charge for a house in Thrissur?',
+        answer: 'There is no fixed rate. Fees are agreed between the architect and the client, usually as a percentage of the construction cost, a rate per square foot of built-up area, or a lump sum. What matters most is the scope: a full service with working drawings, permits and site supervision costs more than permit drawings alone, but leaves far less to chance during construction.'
+      },
+      {
+        question: 'How do I check whether an architect is registered?',
+        answer: 'Ask for their Council of Architecture registration number and verify it on the CoA website, coa.gov.in. Under the Architects Act, 1972, only registered persons can use the title architect in India.'
+      },
+      {
+        question: 'Do I need an architect to get a building permit in Kerala?',
+        answer: 'Permit drawings must be prepared and signed by a professional licensed or registered for that category of building under the Kerala building rules, which can include registered architects, engineers and licensed building designers. For most homeowners, the person who designs the house also prepares and submits the permit application.'
+      },
+      {
+        question: 'Is a design-build firm better than hiring an architect and builder separately?',
+        answer: 'It depends on how much you want to manage. Separate appointments give you an independent check on the builder but leave you coordinating two parties. A design-build firm gives you one point of responsibility and tighter cost control, which suits NRIs and working families who cannot visit the site often.'
+      },
+      {
+        question: 'How long does house design take before construction starts?',
+        answer: 'For a typical home, allow around one to three months for concept, design development and working drawings, plus the time the local body takes to issue the building permit.'
+      }
+    ],
+    keywords: [
+      'architects in Thrissur',
+      'architect fees Thrissur',
+      'top architects in Thrissur',
+      'architecture firms in Thrissur',
+      'architects and interior designers in Thrissur',
+      'architect fees per sq ft Kerala',
+      'architects in Chalakudy',
+      'architect near me Irinjalakuda',
+      'building permit Kerala house',
+      'design build company Thrissur'
+    ],
+    author: 'Design Draft Team',
+    date: '2026-11-02',
+    category: 'Architecture',
+    image: 'https://images.unsplash.com/photo-1740815633097-89baf1dd0413',
+    readTime: '9 min read',
+    metaTitle: 'Architect Fees in Thrissur: How to Hire the Right Architect',
+    metaDescription: 'What architects in Thrissur charge, what the fee covers, how to check CoA registration, who handles permits, and nine questions to ask before you sign.'
+  },
+  {
     id: 7,
     slug: 'monsoon-proof-house-construction-kerala',
     title: 'Building a Home That Handles the Kerala Monsoon: 9 Things to Get Right Before Work Starts',
